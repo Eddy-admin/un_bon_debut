@@ -1,6 +1,6 @@
 # un_bon_debut - Initialisation d’un serveur Debian
 
-un_bon_debut.sh` est un script interactif conçu pour automatiser la configuration de base d’un serveur Debian
+un_bon_debut.sh est un script interactif conçu pour automatiser la configuration de base d’un serveur Debian
 ____________________________________________________________________________________________________
 FONCTIONNALITÉS PRINCIPALES 
 
