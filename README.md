@@ -3,9 +3,11 @@
 un_bon_debut.sh` est un script interactif conçu pour automatiser la configuration de base d’un serveur Debian
 ____________________________________________________________________________________________________
 FONCTIONNALITÉS PRINCIPALES 
+
 🔄 Mise à jour automatique du système
 
 La mise à jour du système est effectuée automatiquement à chaque étape, même si l’option ne s’affiche pas dans le menu.
+
 👤 Création d’un utilisateur sudo
 
     Ajout au groupe sudo
