@@ -22,7 +22,7 @@ already_updated=false
 
 update_system() {
     if [ "$already_updated" = false ]; then
-        log "🔄 Mise à jour du système..."
+        log "Mise à jour du système..."
         apt update && apt upgrade -y || error "Échec de la mise à jour"
         already_updated=true
     fi
